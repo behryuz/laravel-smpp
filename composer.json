@@ -1,5 +1,5 @@
 {
-  "name": "behruz/laravel-smpp",
+  "name": "behryuz/laravel-smpp",
   "description": "SMS sending via SMPP protocol for Laravel framework.",
   "keywords": ["sms", "smpp", "laravel", "onlinecity"],
   "authors": [
