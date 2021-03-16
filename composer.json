@@ -1,6 +1,6 @@
 {
   "name": "behryuz/laravel-smpp",
-  "version": "v1.0",
+  "version": "v1.4",
   "description": "SMS sending via SMPP protocol for Laravel framework.",
   "keywords": ["sms", "smpp", "laravel", "onlinecity"],
   "authors": [
